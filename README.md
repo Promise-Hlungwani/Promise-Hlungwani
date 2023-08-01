@@ -2,11 +2,11 @@
 
 
 ## Actively Learning
-![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/ce6f0e2c-45a4-47d3-a72b-533cac576f91)
-![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/1fa0ea0e-8462-4868-b551-50a1713515c6)
-![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/ce83f22c-2d17-46ae-8727-dd9e268455ac)
-![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/170a7273-817f-4ec7-aacf-329baeacfd02)
-![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/eeee14eb-5fcb-4cc5-a48b-b03ea07beb39)
+![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/f6b791ad-6ac5-4890-81a9-750e882bb464)
+![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/68e628e2-e84f-4179-8bee-b3b942eea95e)
+![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/bcd11d2e-2125-42d5-bbb1-6678643b4935)
+![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/0200b166-4669-4170-971c-178955446b79)
+
 
 
 
