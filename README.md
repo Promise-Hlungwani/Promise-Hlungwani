@@ -25,8 +25,12 @@
 <h4>Languages</h4>
 
 <p>
+  <img align="left" src="https://img.shields.io/badge/HTML-1c1c1c?&style=flat-square&logo=HTML" />
+  <img align="left" src="https://img.shields.io/badge/CSS-1c1c1c?&style=flat-square&logo=CSS" />
+  <img align="left" src="https://img.shields.io/badge/Sass-1c1c1c?&style=flat-square&logo=Sass" />
+  <img align="left" src="https://img.shields.io/badge/Tailwind-1c1c1c?&style=flat-square&logo=Tailwind" />
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
-  <img align="left" src="https://img.shields.io/badge/CShap-1c1c1c?&style=flat-square&logo=CShap" />
+  <img align="left" src="https://img.shields.io/badge/CSharp-1c1c1c?&style=flat-square&logo=CSharp" />
   <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
   <img align="left" src="https://img.shields.io/badge/TypeScript-1c1c1c?&style=flat-square&logo=TypeScript" />
    <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
