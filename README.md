@@ -4,9 +4,8 @@
 
 <h3>I'm a Creative Front-End Developer</h3>
 
-- 📚 I'm currently learning C#, Data Science and Cloud 
+- 📚 I love Designing! 
 
-- I love Designing!
 
 #### Connect with me
 
