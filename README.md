@@ -26,7 +26,7 @@
 
 <p>
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
-  <img align="left" src="https://img.shields.io/badge/C#-1c1c1c?&style=flat-square&logo=C#" />
+  <img align="left" src="https://img.shields.io/badge/C #-1c1c1c?&style=flat-square&logo=C #" />
   <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
   <img align="left" src="https://img.shields.io/badge/React Native-1c1c1c?&style=flat-square&logo=React Native" />
    <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
