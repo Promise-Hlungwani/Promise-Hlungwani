@@ -2,6 +2,13 @@
 
 
 ## Actively Learning
+![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/ce6f0e2c-45a4-47d3-a72b-533cac576f91)
+![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/1fa0ea0e-8462-4868-b551-50a1713515c6)
+![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/ce83f22c-2d17-46ae-8727-dd9e268455ac)
+![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/170a7273-817f-4ec7-aacf-329baeacfd02)
+![image](https://github.com/Promise-Hlungwani/Promise-Hlungwani/assets/103050039/eeee14eb-5fcb-4cc5-a48b-b03ea07beb39)
+
+
 
 <!--
 **Promise-Hlungwani/Promise-Hlungwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
