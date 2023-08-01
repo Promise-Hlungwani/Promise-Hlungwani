@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Promise 👋
+
+
+## Actively Learning
 
 <!--
 **Promise-Hlungwani/Promise-Hlungwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
