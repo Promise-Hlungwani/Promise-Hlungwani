@@ -1,6 +1,6 @@
 ### Hi, I'm Promise! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F)](https://dipanjande.com)
+[![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F)]([https://dipanjande.com](https://promisehlungwani.netlify.app/))
 
 A Creative Front-End Developer passionate about designing intuitive and delightful user experiences.
 
