@@ -26,23 +26,15 @@
 
 <p>
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
-  <img align="left" src="https://img.shields.io/badge/Java-1c1c1c?&style=flat-square&logo=java" />
-  <img align="left" src="https://img.shields.io/badge/WebGL-1c1c1c?&style=flat-square&logo=C#" />
-  <img align="left" src="https://img.shields.io/badge/Lua-1c1c1c?&style=flat-square&logo=SQL" />
-  <img align="left" src="https://img.shields.io/badge/Solidity-1c1c1c?
+  <img align="left" src="https://img.shields.io/badge/C#-1c1c1c?&style=flat-square&logo=C#" />
+  <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
+  <img align="left" src="https://img.shields.io/badge/React Native-1c1c1c?&style=flat-square&logo=React Native" />
+   <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
+    <img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&style=flat-square&logo=Vue" />
+    <img align="left" src="https://img.shields.io/badge/Git-1c1c1c?&style=flat-square&logo=Git" />
 </p>
   
-<br/><br/>
 
-<h4>UI Libraries & Frameworks</h4>
-<p>
-  <img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&style=flat-square&logo=Vue.js" />
-    <img align="left" src="https://img.shields.io/badge/Nuxt-1c1c1c?&style=flat-square&logo=React.js" />
-  <img align="left" src="https://img.shields.io/badge/Svelte-1c1c1c?&style=flat-square&logo=Svelte" />
-  <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
-  <img align="left" src="https://img.shields.io/badge/ThreeJS-1c1c1c?&style=flat-square&logo=TypeScript.js" />
-  <img align="left" src="https://img.shields.io/badge/GreenSock-1c1c1c?
-</p>
   
 
 
