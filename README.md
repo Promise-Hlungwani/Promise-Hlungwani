@@ -6,10 +6,6 @@ A Creative Front-End Developer passionate about designing intuitive and delightf
 
 🌱 Currently, I'm exploring the latest trends in web design and continuously learning new front-end technologies to improve my skills.
 
-🎨 Designing is my passion, and I'm always excited to collaborate with designers and fellow developers to bring ideas to life.
-
-📚 When I'm not coding, you can find me immersed in design books, seeking inspiration from various art forms, or simply enjoying nature's beauty.
-
 
 Let's create delightful digital experiences together! ✨
 
