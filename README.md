@@ -18,11 +18,8 @@
 
 ---
 
-### What I work with
 
-<p>These are some of the languages, tools and frameworks that I use on a regular basis.</p>
-
-<h4>Languages</h4>
+<h4>Actively Learning</h4>
 
 <p>
   <img align="left" src="https://img.shields.io/badge/HTML5-1c1c1c?&style=flat-square&logo=HTML5" />
