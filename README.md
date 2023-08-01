@@ -26,7 +26,7 @@
 
 <p>
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
-  <img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&style=flat-square&logo=Python" />
+  <img align="left" src="https://img.shields.io/badge/Java-1c1c1c?&style=flat-square&logo=java" />
   <img align="left" src="https://img.shields.io/badge/WebGL-1c1c1c?&style=flat-square&logo=C#" />
   <img align="left" src="https://img.shields.io/badge/Lua-1c1c1c?&style=flat-square&logo=SQL" />
   <img align="left" src="https://img.shields.io/badge/Solidity-1c1c1c?
