@@ -1,10 +1,9 @@
 # Hi, I'm Promise! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Portfolio](https://img.shields.io/website?down_message=▼&label=Portfolio&style=for-the-badge&up_message=▲&url=https://dipanjande.com)](https://dipanjande.com)
-
 I'm a Creative Front-End Developer passionate about designing intuitive and delightful user experiences.
 
 Let's collaborate and create delightful digital experiences together! ✨
+[![Portfolio](https://img.shields.io/website?down_message=▼&label=Portfolio&style=for-the-badge&up_message=▲&url=https://dipanjande.com)](https://dipanjande.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/promise-hlungwani/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shitshembiso0@gmail.com)
 
