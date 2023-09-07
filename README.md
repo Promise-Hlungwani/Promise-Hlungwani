@@ -23,6 +23,7 @@ Let's create delightful digital experiences together! ✨
 <h4>Actively Learning</h4>
 
 <p>
+      <img align="left" src="https://img.shields.io/badge/python-1c1c1c?&style=flat-square&logo=python" />
   <img align="left" src="https://img.shields.io/badge/HTML5-1c1c1c?&style=flat-square&logo=HTML5" />
   <img align="left" src="https://img.shields.io/badge/CSS3-1c1c1c?&style=flat-square&logo=CSS3" />
   <img align="left" src="https://img.shields.io/badge/Sass-1c1c1c?&style=flat-square&logo=Sass" />
