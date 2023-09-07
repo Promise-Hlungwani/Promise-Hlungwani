@@ -22,8 +22,8 @@ Let's create delightful digital experiences together! ✨
 
 <h4>Actively Learning</h4>
 
-<p style="padding-top: 100px">
-      <img align="left" src="https://img.shields.io/badge/python-1c1c1c?&style=flat-square&logo=python" />
+<div class="badge-section">
+  <img align="left" src="https://img.shields.io/badge/python-1c1c1c?&style=flat-square&logo=python" />
   <img align="left" src="https://img.shields.io/badge/HTML5-1c1c1c?&style=flat-square&logo=HTML5" />
   <img align="left" src="https://img.shields.io/badge/CSS3-1c1c1c?&style=flat-square&logo=CSS3" />
   <img align="left" src="https://img.shields.io/badge/Sass-1c1c1c?&style=flat-square&logo=Sass" />
@@ -32,10 +32,14 @@ Let's create delightful digital experiences together! ✨
   <img align="left" src="https://img.shields.io/badge/CSharp-1c1c1c?&style=flat-square&logo=CSharp" />
   <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
   <img align="left" src="https://img.shields.io/badge/TypeScript-1c1c1c?&style=flat-square&logo=TypeScript" />
-   <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
-    <img align="left" src="https://img.shields.io/badge/Vue.js-1c1c1c?&style=flat-square&logo=Vue.js" />
-    <img align="left" src="https://img.shields.io/badge/Git-1c1c1c?&style=flat-square&logo=Git" />
-</p>
+  <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
+  <img align="left" src="https://img.shields.io/badge/Vue.js-1c1c1c?&style=flat-square&logo=Vue.js" />
+  <img align="left" src="https://img.shields.io/badge/Git-1c1c1c?&style=flat-square&logo=Git" />
+</div>
+.badge-section {
+  padding-top: 100px; 
+}
+
   
 
   
