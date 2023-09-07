@@ -25,3 +25,11 @@ Let's collaborate and create delightful digital experiences together! ✨
   <img align="left" src="https://img.shields.io/badge/Vue.js-1c1c1c?&style=flat-square&logo=Vue.js" />
   <img align="left" src="https://img.shields.io/badge/Git-1c1c1c?&style=flat-square&logo=Git" />
 </div>
+
+<style>
+  .badge {
+    width: 100px; 
+    height: 25px;
+    margin-right: 10px; 
+  }
+</style>
