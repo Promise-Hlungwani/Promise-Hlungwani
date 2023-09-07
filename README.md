@@ -11,7 +11,7 @@ Let's collaborate and create delightful digital experiences together! ✨
 
 ## Actively Learning
 
-<div class="badge-section">
+<div class="badge-section" style="margin-top: 20px;">
   <img align="left" src="https://img.shields.io/badge/python-1c1c1c?&style=flat-square&logo=python" margin-top="10px"
     />
   <img align="left" src="https://img.shields.io/badge/HTML5-1c1c1c?&style=flat-square&logo=HTML5" margin-top="10px" />
