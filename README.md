@@ -12,7 +12,7 @@ Let's collaborate and create delightful digital experiences together! ✨
 ## Actively Learning
 
 <div class="badge-section">
-  <img align="left" src="https://img.shields.io/badge/python-1c1c1c?&style=flat-square&logo=python"  width: "125px"
+  <img align="left" src="https://img.shields.io/badge/python-1c1c1c?&style=flat-square&logo=python"  width="125px"
     />
   <img align="left" src="https://img.shields.io/badge/HTML5-1c1c1c?&style=flat-square&logo=HTML5" />
   <img align="left" src="https://img.shields.io/badge/CSS3-1c1c1c?&style=flat-square&logo=CSS3" />
