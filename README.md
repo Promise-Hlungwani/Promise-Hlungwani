@@ -1,6 +1,6 @@
 # Hi, I'm Promise! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Creative Front-End Developer passionate about designing intuitive and delightful user experiences.
+I'm a Creative Junior Full Stack Developer  passionate about designing intuitive and delightful user experiences.
 
 Let's collaborate and create delightful digital experiences together! ✨
 [![Portfolio](https://img.shields.io/website?down_message=▼&label=Portfolio&style=for-the-badge&up_message=▲&url=https://dipanjande.com)](https://dipanjande.com)
